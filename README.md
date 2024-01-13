@@ -1,2 +1,3 @@
 # basic-html
-![Uploading Screenshot (133).jpeg…]()
+
+![Screenshot (133)](https://github.com/aditi-s22/basic-html/assets/156512463/37074541-b2f2-4d0b-b7d5-13217f6dacf1)
